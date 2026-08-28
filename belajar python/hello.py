@@ -6,3 +6,6 @@ print("Cita-cita: Software Engineer")
 
 print("Saya belajar Git dari master!")
 print("Ini adalah branch latihan.")
+print("Perubahan dari branch fitur-biodata!")
+print("Ini perubahan dari fitur-biodata!")
+print("Saya belajar membuat Pull Request!")
