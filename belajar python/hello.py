@@ -4,5 +4,5 @@ print("Jurusan: PPLG")
 print("Sekolah: SMK Negeri 1 Garut")
 print("Cita-cita: Software Engineer")
 
-print("Saya sedang belajar Git!")
+print("Saya belajar Git dari master!")
 print("Ini adalah branch latihan.")
